@@ -1,5 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Cássio Marcelo!</h1>
 <p align="center">
+<a href="https://wa.me/5562985398582" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/c%C3%A1ssio-marcelo"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/cassiomarcelo_oficial"><img src="https://img.shields.io/badge/-Meu%20Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/-Mande%20um%20E--mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
