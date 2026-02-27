@@ -39,6 +39,13 @@ Se você busca um profissional com visão de negócio, maturidade e uma vontade 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n&logoColor=FF6D5A)
+![Chatwoot](https://img.shields.io/badge/-Chatwoot-1f92f4?style=flat&logo=chatwoot&logoColor=white)
+![Typebot](https://img.shields.io/badge/-Typebot-000000?style=flat&logo=rocket&logoColor=62eef5)
+![Make](https://img.shields.io/badge/-Make-8502ff?style=flat&logo=make&logoColor=white)
+![OpenAI/GPT](https://img.shields.io/badge/-OpenAI_GPT-41b883?style=flat&logo=openai&logoColor=white)
+![Evolution API](https://img.shields.io/badge/-Evolution_API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![BotConversa](https://img.shields.io/badge/-BotConversa-00c2ff?style=flat)
+![Zaia](https://img.shields.io/badge/-Zaia_IA-6e4aff?style=flat)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
