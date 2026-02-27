@@ -53,4 +53,4 @@ Se você busca um profissional com visão de negócio, maturidade e uma vontade 
 
 ![Estatísticas do GitHub](https://streak-stats.demolab.com?user=CassioMarcelo-DV&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioMarcelo-DV&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CassioMarcelo-DV&layout=compact&theme=dracula)
